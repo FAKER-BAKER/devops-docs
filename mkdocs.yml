@@ -1,5 +1,6 @@
 site_name: DevOps Operations Handbook
 repo_url: https://github.com/FAKER-BAKER/devops-docs
+edit_uri: edit/main/docs/
 theme:
   name: mkdocs
   locale: ru

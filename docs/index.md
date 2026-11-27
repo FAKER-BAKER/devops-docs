@@ -1,5 +1,5 @@
 # DevOps Operations Handbook
 
-**Версия: 1.**
+**Версия: 2.**
 
 Pylint проверяет изменения в Pull Request. После слияния MkDocs собирает сайт, который публикуется в GitHub Pages.

@@ -3,6 +3,5 @@
 
 def format_status(version: str, deployed: bool) -> str:
     """Возвращает версию и состояние публикации."""
-    publication_message = 'publication'
     state = "deployed" if deployed else "draft"
     return f"{version}: {state}"
